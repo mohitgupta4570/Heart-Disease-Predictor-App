@@ -16,8 +16,8 @@ c. Models Used & Evaluation Metrics
 | Decision Tree       | 0.997     | 0.997     | 1.000      | 0.994     | 0.997     | 0.994     |
 | KNN                 | 0.926     | 0.984     | 0.915      | 0.943     | 0.929     | 0.852     |
 | Naive Bayes         | 0.831     | 0.910     | 0.811      | 0.875     | 0.842     | 0.664     |
-| Random Forest       | 0.997     | 1.000     | 1.000      | 0.994     | 0.997     | 0.994     |
-| XGBoost             | 0.997     | 0.998     | 1.000      | 0.994     | 0.997     | 0.994 `   |
+| Random Forest (Ensemble)       | 0.997     | 1.000     | 1.000      | 0.994     | 0.997     | 0.994     |
+| XGBoost (Ensemble)            | 0.997     | 0.998     | 1.000      | 0.994     | 0.997     | 0.994 `   |
 
 
 Model Observations
@@ -28,5 +28,5 @@ Model Observations
 | Decision Tree       | Easy to interpret but prone to overfitting             |
 | KNN                 | Performance depends on optimal k value                 |
 | Naive Bayes         | Fast and efficient but assumes feature independence    |
-| Random Forest       | Strong ensemble performance with reduced overfitting   |
-| XGBoost             | Best overall performance with highest accuracy and MCC |
+| Random Forest (Ensemble)      | Strong ensemble performance with reduced overfitting   |
+| XGBoost (Ensemble)           | Best overall performance with highest accuracy and MCC |
