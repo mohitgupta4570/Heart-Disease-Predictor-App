@@ -33,7 +33,7 @@ Model Observations
 
 AI Model Analyst
 
-The application integrates a **Generative AI assistant** that can answer questions such as:
+The application integrates a Generative AI assistant that can answer questions such as:
 
 - Which model performed best?
 - Why does Random Forest outperform Decision Tree?
@@ -41,4 +41,4 @@ The application integrates a **Generative AI assistant** that can answer questio
 - Compare Logistic Regression and KNN
 - Why might XGBoost perform better on this dataset?
 
-The chatbot analyzes **actual model results generated from the dataset**.
+The chatbot analyzes actual model results generated from the dataset.
