@@ -30,3 +30,15 @@ Model Observations
 | Naive Bayes         | Fast and efficient but assumes feature independence    |
 | Random Forest (Ensemble)      | Strong ensemble performance with reduced overfitting   |
 | XGBoost (Ensemble)           | Best overall performance with highest accuracy and MCC |
+
+AI Model Analyst
+
+The application integrates a **Generative AI assistant** that can answer questions such as:
+
+- Which model performed best?
+- Why does Random Forest outperform Decision Tree?
+- What does MCC indicate about model performance?
+- Compare Logistic Regression and KNN
+- Why might XGBoost perform better on this dataset?
+
+The chatbot analyzes **actual model results generated from the dataset**.
